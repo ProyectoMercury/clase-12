@@ -1,1 +1,1 @@
-# clase-12
+# infodigital-clase-12
