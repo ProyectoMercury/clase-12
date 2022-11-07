@@ -34,7 +34,26 @@ LA CÁPSULA
 ![image](https://user-images.githubusercontent.com/111382126/197552527-1f0fb65d-c9d9-43b1-bfa2-5ea8631ef30a.png)
 
 
-EL EQUIPO: LOS SIETE VALIENTES
+EL EQUIPO: PROCESO DE SELECCIÓN
+Requisitos
+
+Para poder seleccionar a los que serían los encargados de tripular las misiones, se debieron de definir distintos requisitos obligatorios para todo el que fuera un posible candidato.
+1- Tener menos de 40 años
+2- Medir menos de 1,80m
+3- Contar con excelente condición física
+4- Poseer un grado de licenciatura o equivalente
+5- Estar graduado de la escuela de pilotos de pruebas
+6- Acreditar un mínimo de 1500 horas de vuelo total
+7- Ser un piloto reactor cualificado
+
+Con estos requisitos la búsqueda empezó al revisar los expedientes de 508 pilotos de pruebas militares:
+508 pilotos de pruebas militares (225 Fuerza Aérea, 225 Armada, 23 Cuerpo de Marines, 35 Ejército)
+
+De estos se seleccionaron a 110 pilotos  (5 Marines, 47 de la Armada y 58 de la Fuerza Aérea) que se consideraron que cumplían con los requisitos necesarios. Este selección se dividió en 3 grandes grupos, de los cuales sólo los 2 primeros participaron en reuniones informativas y de capacitación primaria sobre las misiones. Así se descartó automáticamente al tercer grupo de 41 pilotos. Continuando con 69 candidatos.
+
+De esos 69: 6 superaban el límite de altura, 16 renunciaron y 15 fueron eliminados por otras razones. Dejando así a la NASA con 32 candidatos (15 Armada, 15 Fuerza Aérea, 2 Marines). Estos a continuación realizaron una serie de agotadoras pruebas físicas y psicológicas, dejando a 18 candidatos, de los cuales no pudieron elegir solo a 6, por lo que se terminaron seleccionando a los 7 valientes finalistas quienes se convirtieron en los primeros astronautas Estadounidenses.
+
+LOS SIETE VALIENTES
 
 Elegidos de un grupo de más de 110 pilotos militares, debido a su experiencia en vuelos de prueba y por las características físicas necesarias que mantenían. En 1957 se seleccionaron 7 astronautas para las misiones Mercury:
 1. Alan B. Shephard
@@ -69,5 +88,6 @@ https://web.archive.org/web/20151027034642/http://history.nasa.gov/SP-4003/toc.h
 
 https://danielmarin.naukas.com/2012/02/22/los-vuelos-suborbitales-que-nunca-fueron/
 
+https://es.wikipedia.org/wiki/Mercury_Seven
 
 
