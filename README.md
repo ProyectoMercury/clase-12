@@ -38,13 +38,13 @@ EL EQUIPO: PROCESO DE SELECCIÓN
 Requisitos
 
 Para poder seleccionar a los que serían los encargados de tripular las misiones, se debieron de definir distintos requisitos obligatorios para todo el que fuera un posible candidato.
-1- Tener menos de 40 años
-2- Medir menos de 1,80m
-3- Contar con excelente condición física
-4- Poseer un grado de licenciatura o equivalente
-5- Estar graduado de la escuela de pilotos de pruebas
-6- Acreditar un mínimo de 1500 horas de vuelo total
-7- Ser un piloto reactor cualificado
+- 1- Tener menos de 40 años
+- 2- Medir menos de 1,80m
+- 3- Contar con excelente condición física
+- 4- Poseer un grado de licenciatura o equivalente
+- 5- Estar graduado de la escuela de pilotos de pruebas
+- 6- Acreditar un mínimo de 1500 horas de vuelo total
+- 7- Ser un piloto reactor cualificado
 
 Con estos requisitos la búsqueda empezó al revisar los expedientes de 508 pilotos de pruebas militares:
 508 pilotos de pruebas militares (225 Fuerza Aérea, 225 Armada, 23 Cuerpo de Marines, 35 Ejército)
